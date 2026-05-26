@@ -175,38 +175,3 @@ A entrega deve ser feita via GitHub Classroom até 29/05 às 23:59.
 Façam commits frequentes e mantenham o código organizado.
 
 Boa sorte :D
-
-Crie o arquivo `vite.config.js` com o seguinte conteúdo:
-
-```js
-import { defineConfig } from 'vite'
-import tailwindcss from '@tailwindcss/vite'
-
-export default defineConfig({
-  plugins: [
-    tailwindcss(),
-  ],
-})
-```
-
----
-
-## Limpando os arquivos padrão
-
-Vocês podem remover arquivos padrão que não serão utilizados, como:
-
-```txt
-./src/counter.js
-```
-
-O `main.js` deve permanecer no projeto.
-
----
-
-# Entrega
-
-A entrega deve ser feita via GitHub Classroom até 29/05 às 23:59.
-
-Façam commits frequentes e mantenham o código organizado.
-
-Boa sorte :D
